@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "modraniht_runicregular";
+  src: url("https://fontswapper-fonts.s3.us-west-2.amazonaws.com/modranihtrunic-yvxj-webfont.woff2")
+      format("woff2"),
+    url("https://fontswapper-fonts.s3.us-west-2.amazonaws.com/modranihtrunic-yvxj-webfont.woff")
+      format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  font-family: "modraniht_runicregular" !important;
+}

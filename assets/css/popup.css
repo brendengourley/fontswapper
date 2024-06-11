@@ -1,0 +1,15 @@
+body {
+  background-color: black;
+  width: 300px;
+}
+
+#submit {
+  padding: 1rem;
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+  background-color: black;
+  border: 2px solid lightblue;
+  color: lightblue;
+  cursor: pointer;
+}

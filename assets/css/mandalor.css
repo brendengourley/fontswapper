@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "mandalorianregular";
+  src: url("https://fontswapper-fonts.s3.us-west-2.amazonaws.com/mandalor-webfont.woff2")
+      format("woff2"),
+    url("https://fontswapper-fonts.s3.us-west-2.amazonaws.com/mandalor-webfont.woff")
+      format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  font-family: "mandalorianregular" !important;
+}

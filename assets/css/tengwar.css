@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "tengwar_annatarregular";
+  src: url("https://fontswapper-fonts.s3.us-west-2.amazonaws.com/tngan-webfont.woff2")
+      format("woff2"),
+    url("https://fontswapper-fonts.s3.us-west-2.amazonaws.com/tngan-webfont.woff")
+      format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  font-family: "tengwar_annatarregular" !important;
+}
